@@ -1,10 +1,10 @@
 # Site settings
 title: WangP Blog
 SEOTitle: Wangp的博客 | WangP Blog
-header-img: img/home-bg.jpg
+# header-img: img/home-bg.jpg
 email: wangp3620@gmail.com
 description: "这里是个人博客，与你一起探索未来 | "
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+# keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://wangp-blog.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
